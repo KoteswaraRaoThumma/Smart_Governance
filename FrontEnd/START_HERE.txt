@@ -1,0 +1,27 @@
+============================================
+  SMART GOVERNANCE PORTAL - HOW TO RUN
+============================================
+
+QUICK START (Choose one method):
+
+METHOD 1 - Easiest (Windows):
+  1. Double-click "start.bat" in this folder
+  2. Wait for it to install and start
+  3. Open browser: http://localhost:3000
+
+METHOD 2 - Command Line:
+  1. Open PowerShell or CMD in this folder
+  2. Run: npm install
+  3. Run: npm run dev
+  4. Open browser: http://localhost:3000
+
+REQUIREMENTS:
+  - Node.js 18+ installed
+  - npm (comes with Node.js)
+
+NEED HELP?
+  - See RUN_INSTRUCTIONS.md for detailed guide
+  - Check README.md for project info
+
+============================================
+
